@@ -1,0 +1,12 @@
+Package: kmod-nls-utf8
+Version: 5.15.189-1
+Depends: kernel (=5.15.189-1-2754d960da6d6f582d53be94c2d49b0e), kmod-nls-base
+Source: feeds/base/kernel/linux
+SourceName: kmod-nls-utf8
+License: GPL-2.0-only
+LicenseFiles: COPYING
+Section: kernel
+SourceDateEpoch: 1726325473
+Architecture: x86_64
+Installed-Size: 1182
+Description:  Kernel module for NLS UTF-8

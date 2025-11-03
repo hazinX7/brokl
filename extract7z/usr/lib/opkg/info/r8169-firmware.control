@@ -1,0 +1,11 @@
+Package: r8169-firmware
+Version: 20230804-1
+Depends: libc
+Source: feeds/base/firmware/linux-firmware
+SourceName: r8169-firmware
+Section: firmware
+SourceDateEpoch: 1720645656
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: x86_64
+Installed-Size: 23805
+Description:  RealTek RTL8169 firmware
